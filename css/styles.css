@@ -19,7 +19,7 @@ body {
   padding: 60px 15px 0;
 }
 .container .credit {
-  margin: 20px 0;
+  margin: px 0;
 }
 
 #footer > .container {
@@ -46,7 +46,7 @@ code {
 }
 .stext{
   text-align: center;
-    font-family: "Noto Sans", serif;
+    font-family: "Verdana", serif;
 }
 #offered {
   line-height: 28px;
